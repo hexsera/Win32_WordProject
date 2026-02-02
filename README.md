@@ -4,7 +4,7 @@
 * **개발 기간**: 2025.04 (약 20일)
 * **개발 환경**:
     * Language: C++
-    * Platform: Windows (Win32 API / GDI)
+    * Framework: Win32 API
     * IDE: Visual Studio
 * **목표**: Win32 제공 컴포넌트 없이 워드 프로그램의 UI 컴포넌트의 생성부터 이벤트 처리, 객체 렌더링까지의 전 과정을 로우레벨에서 이해하고 구현.
 
