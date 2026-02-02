@@ -1,0 +1,7 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: 중간 디렉터리(x64\Debug\)에 다른 프로젝트(WindowsProject2listword.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
+  Win32_WordProject.cpp
+C:\github\Win32_WordProject\WindowsProject2listword\Win32_WordProject.cpp(581,21): warning C4244: '=': 'WPARAM'에서 'TCHAR'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\github\Win32_WordProject\WindowsProject2listword\Win32_WordProject.cpp(552,11): warning C4101: 'temp_size_char' :참조되지 않은 지역 변수입니다.
+C:\github\Win32_WordProject\WindowsProject2listword\Win32_WordProject.cpp(550,10): warning C4101: 'temp_size' :참조되지 않은 지역 변수입니다.
+C:\github\Win32_WordProject\WindowsProject2listword\Win32_WordProject.cpp(775,15): warning C4101: 'templine' :참조되지 않은 지역 변수입니다.
+  WindowsProject2listword.vcxproj -> C:\github\Win32_WordProject\x64\Debug\Win32_WordProject.exe
